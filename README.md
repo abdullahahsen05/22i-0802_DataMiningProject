@@ -1,9 +1,9 @@
-# Multivariate Time Series Anomaly Detection (NASA SMAP)
+# Multivariate Time Series Anomaly Detection (NASA SMAP) Abdullah Ahsen 22i-0802
 
 ## 📌 Project Overview
 This repository implements a robust Deep Learning framework for detecting anomalies in multivariate time series data. Addressing the challenge of data contamination and lack of labels in real-world sensor data, the model integrates **Geometric Masking**, **Transformers**, **Contrastive Learning**, and **GANs** to learn robust representations of normal behavior.
 
-This project was implemented as part of the **Data Mining Semester Project (Fall 2024)**.
+This project was implemented as part of the **Data Mining Semester Project (Fall 2025)**.
 
 ---
 
